@@ -1,0 +1,191 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3EA43DB4-DF3F-4A22-86E6-E039C1DAE5A6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1694,
+    "width": 768,
+    "x": 1265,
+    "y": 133
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "FBC5E3CB-1E6D-46DE-B390-A1A545DACE74"
+    },
+    {
+      "class": "group",
+      "id": "BD6D1263-2DB4-43D9-B431-E2414CC107A9"
+    },
+    {
+      "class": "rectangle",
+      "id": "6C1BAA98-3420-4B45-AFD7-EE62E2076B8E"
+    },
+    {
+      "class": "rectangle",
+      "id": "882D0E7B-52E9-41C8-8824-9BFDE468BA69"
+    },
+    {
+      "class": "rectangle",
+      "id": "4C49613F-F774-4D74-964A-44ABEDD9DB0D"
+    },
+    {
+      "class": "rectangle",
+      "id": "D5F80F64-BABF-421D-97FF-873FD9820B21"
+    },
+    {
+      "class": "rectangle",
+      "id": "A1D5F20A-F1D5-4EB5-8877-E398EF20CFE0"
+    },
+    {
+      "class": "rectangle",
+      "id": "78F1D2E4-B64F-447F-BD8B-5C2C3FDDE309"
+    },
+    {
+      "class": "rectangle",
+      "id": "116B9673-C194-4074-BF0C-2BF1FF38F7F4"
+    },
+    {
+      "class": "rectangle",
+      "id": "4B8540BA-6FDB-4350-AD85-805049EE3DD2"
+    },
+    {
+      "class": "rectangle",
+      "id": "46BC3D66-406B-4380-814A-0A08E6E56AAF"
+    },
+    {
+      "class": "text",
+      "id": "1333BFB5-2650-4F25-AA14-9D8B6C3A3D38"
+    },
+    {
+      "class": "group",
+      "id": "4F7083ED-803E-48CA-BBB3-405ABB5EC8F6"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 46.91666666666666,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 15,
+    "guttersOutside": false,
+    "horizontalOffset": 20,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 728
+  },
+  "name": "Tablet",
+  "nameIsFixed": false,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Tablet",
+    "offersLandscapeVariant": 1,
+    "width": 768
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "9CA7C675-235A-4C80-9C98-8786EA0ADC17",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": -1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
