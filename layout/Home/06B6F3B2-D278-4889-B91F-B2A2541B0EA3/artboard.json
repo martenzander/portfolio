@@ -54,8 +54,40 @@
       "id": "9E498B3F-7ACE-4F8A-BD56-67513F3BFD01"
     },
     {
-      "class": "group",
-      "id": "29E2914F-3A6E-4477-9DC5-9D95744218D8"
+      "class": "rectangle",
+      "id": "D7A4DFD3-6F17-4FE4-85F9-26697B99A7F7"
+    },
+    {
+      "class": "rectangle",
+      "id": "36652F5C-BDC7-41F9-9A1C-9CC096C199B0"
+    },
+    {
+      "class": "rectangle",
+      "id": "C1666B02-9250-4E40-9A90-FBD2BB272792"
+    },
+    {
+      "class": "rectangle",
+      "id": "B54216BD-1A80-4D0F-BA21-7612E55110D5"
+    },
+    {
+      "class": "rectangle",
+      "id": "40185E9D-5A9D-4BEC-B9D9-DD8294C9C49A"
+    },
+    {
+      "class": "rectangle",
+      "id": "62063742-1E57-4C26-AD38-1F942C083A86"
+    },
+    {
+      "class": "rectangle",
+      "id": "4596E33B-9A76-4B2F-BD22-EBC4A500C874"
+    },
+    {
+      "class": "rectangle",
+      "id": "12E92820-CE02-4B3F-A970-8A80A0754AC8"
+    },
+    {
+      "class": "rectangle",
+      "id": "DDFFE7A9-C299-4EF1-8E36-C2BAC8831906"
     },
     {
       "class": "group",

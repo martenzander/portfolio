@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 38,
+  "changeIdentifier": 166,
   "clippingMaskMode": 0,
   "do_objectID": "D91B5743-25C8-4065-9E2B-8C6B4453A6FF",
   "exportOptions": {
@@ -33,7 +33,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -61,6 +61,10 @@
       "id": "B97DC7C7-A26D-4F1E-B613-9FDBCE353783"
     },
     {
+      "class": "text",
+      "id": "8DA156F2-1B43-4396-BF8F-AFCA90FEC792"
+    },
+    {
       "class": "symbolInstance",
       "id": "BB80F738-E107-439F-B977-E2CC3C9ADD01"
     }
@@ -68,6 +72,26 @@
   "name": "header/Desktop HD",
   "nameIsFixed": false,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8DA156F2-1B43-4396-BF8F-AFCA90FEC792_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B97DC7C7-A26D-4F1E-B613-9FDBCE353783_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8DA156F2-1B43-4396-BF8F-AFCA90FEC792_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "4BAB0382-F250-4AF9-A559-C5D905908307_textStyle"
+    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
@@ -86,7 +110,7 @@
   ],
   "presetDictionary": {
   },
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -140,7 +164,7 @@
   "symbolID": "C3EC0CC1-22C7-4EE0-9B6E-5763167F4964",
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 1
     }
   },
   "verticalRulerData": {

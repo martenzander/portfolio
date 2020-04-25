@@ -82,6 +82,10 @@
     {
       "class": "oval",
       "id": "5E70932F-9709-4EAF-A204-8CA29B852398"
+    },
+    {
+      "class": "rectangle",
+      "id": "C40C46FB-CAED-425B-954D-BF906114733B"
     }
   ],
   "name": "Home",

@@ -19,7 +19,7 @@
     "constrainProportions": false,
     "height": 285,
     "width": 380,
-    "x": 150,
+    "x": 20,
     "y": 691
   },
   "hasClippingMask": false,
@@ -80,6 +80,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "EE983C2E-A3AF-4780-B1B2-AA7CF804CCE9",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -182,7 +183,7 @@
           "blendMode": 0,
           "opacity": 1
         },
-        "fillType": 0,
+        "fillType": 4,
         "gradient": {
           "_class": "gradient",
           "elipseLength": 0,
@@ -213,6 +214,11 @@
             }
           ],
           "to": "{0.5, 1}"
+        },
+        "image": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/1844c83b4a2b3e77268c02522d6368dde2fbed8d.png",
+          "_ref_class": "MSImageData"
         },
         "isEnabled": true,
         "noiseIndex": 0,

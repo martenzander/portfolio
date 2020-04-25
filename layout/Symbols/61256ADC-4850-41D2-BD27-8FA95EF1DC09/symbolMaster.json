@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 30,
+  "changeIdentifier": 239,
   "clippingMaskMode": 0,
   "do_objectID": "61256ADC-4850-41D2-BD27-8FA95EF1DC09",
   "exportOptions": {
@@ -25,7 +25,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 121,
-    "width": 1024,
+    "width": 992,
     "x": 4031,
     "y": 0
   },
@@ -63,6 +63,10 @@
     {
       "class": "symbolInstance",
       "id": "4859F681-00B4-4209-A295-A0393DE63720"
+    },
+    {
+      "class": "text",
+      "id": "BF0A04F9-E180-44AD-AA86-E9EC6917F62E"
     }
   ],
   "name": "header/Desktop",
@@ -71,7 +75,17 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
+      "overrideName": "F4B57280-D75E-4D47-8568-754E8FDFA1A6_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
       "overrideName": "F4B57280-D75E-4D47-8568-754E8FDFA1A6_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "4E550434-9DF2-4DA1-A828-A0389A6E7F99_textStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -86,7 +100,7 @@
   ],
   "presetDictionary": {
   },
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

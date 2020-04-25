@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 196,
+  "changeIdentifier": 220,
   "clippingMaskMode": 0,
   "do_objectID": "429980E8-D135-4BB7-AC24-26F17D8CB12D",
   "exportOptions": {
@@ -33,7 +33,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -76,6 +76,11 @@
   "name": "dribbble",
   "nameIsFixed": false,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "2767EE55-AFBD-4119-B82A-43E99ADD4993_layerStyle"
+    }
   ],
   "presetDictionary": {
   },
@@ -133,7 +138,7 @@
   "symbolID": "08A255E0-6F0B-4E3D-BFA1-D4A0B9E970C4",
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 1
     }
   },
   "verticalRulerData": {

@@ -23,7 +23,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 1235,
-    "width": 1440,
+    "width": 1180,
     "x": 3257,
     "y": 133
   },
@@ -67,10 +67,6 @@
     },
     {
       "class": "rectangle",
-      "id": "B82DEB99-C5E1-4816-B8E1-098E22CB6F8E"
-    },
-    {
-      "class": "rectangle",
       "id": "7112E2F1-1C9D-4B10-BA89-796B5E360C1A"
     },
     {
@@ -96,6 +92,14 @@
     {
       "class": "group",
       "id": "5B04F18D-D51D-4C58-945C-E00B81477B64"
+    },
+    {
+      "class": "rectangle",
+      "id": "CFEDB33B-0C6F-4DD4-8E9C-244AD040FD32"
+    },
+    {
+      "class": "rectangle",
+      "id": "01CA95F6-2317-44ED-9211-B8754910F644"
     }
   ],
   "layout": {
@@ -107,7 +111,7 @@
     "gutterHeight": 12,
     "gutterWidth": 15,
     "guttersOutside": false,
-    "horizontalOffset": 150,
+    "horizontalOffset": 20,
     "isEnabled": false,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
@@ -175,7 +179,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 1
     }
   },
   "verticalRulerData": {

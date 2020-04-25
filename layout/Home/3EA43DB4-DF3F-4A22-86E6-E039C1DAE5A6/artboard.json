@@ -54,10 +54,6 @@
       "id": "FBC5E3CB-1E6D-46DE-B390-A1A545DACE74"
     },
     {
-      "class": "group",
-      "id": "BD6D1263-2DB4-43D9-B431-E2414CC107A9"
-    },
-    {
       "class": "rectangle",
       "id": "6C1BAA98-3420-4B45-AFD7-EE62E2076B8E"
     },
@@ -100,6 +96,10 @@
     {
       "class": "group",
       "id": "4F7083ED-803E-48CA-BBB3-405ABB5EC8F6"
+    },
+    {
+      "class": "rectangle",
+      "id": "86515055-3CC9-47B9-BD21-D7C8BED4181C"
     }
   ],
   "layout": {
