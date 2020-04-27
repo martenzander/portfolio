@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "0DD8D2AD-A8C9-4480-8FE6-90F5767328D2",
+  "do_objectID": "9C0E9EAE-5BFD-4144-AABD-570AC60B8746",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,20 +15,20 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 121,
-    "width": 1140,
+    "height": 285,
+    "width": 380,
     "x": 20,
-    "y": 0
+    "y": 121
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": true,
+  "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "header/Desktop HD",
+  "name": "hover",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -71,7 +71,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "6FE317E2-8669-4D03-A596-31545F42B1AC",
+    "do_objectID": "4C435CD1-B927-4224-8FA7-4023BA83C599",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -83,6 +83,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "C3EC0CC1-22C7-4EE0-9B6E-5763167F4964",
+  "symbolID": "F9CE8D2E-07D3-4245-A5F4-6B019AA6CEAC",
   "verticalSpacing": 0
 }

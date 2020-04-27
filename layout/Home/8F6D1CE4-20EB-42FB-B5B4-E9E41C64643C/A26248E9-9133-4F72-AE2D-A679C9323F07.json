@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "0DD8D2AD-A8C9-4480-8FE6-90F5767328D2",
+  "do_objectID": "A26248E9-9133-4F72-AE2D-A679C9323F07",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,22 +15,32 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 121,
-    "width": 1140,
-    "x": 20,
-    "y": 0
+    "height": 285,
+    "width": 380,
+    "x": 780,
+    "y": 406
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": true,
+  "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "header/Desktop HD",
+  "name": "hover copy 5",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "804B8849-EA82-4A08-9A0C-53DF666B9FD6_stringValue",
+      "value": "Tie Fighter"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E0F7B79D-358B-46DE-9817-42548DABC12E_stringValue",
+      "value": "3D Model"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -71,7 +81,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "6FE317E2-8669-4D03-A596-31545F42B1AC",
+    "do_objectID": "58C88AE2-3DDB-4C9A-8EA4-2C31B58E2A4F",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -83,6 +93,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "C3EC0CC1-22C7-4EE0-9B6E-5763167F4964",
+  "symbolID": "F9CE8D2E-07D3-4245-A5F4-6B019AA6CEAC",
   "verticalSpacing": 0
 }
